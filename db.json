@@ -1,0 +1,1621 @@
+{
+  "user": [
+    {
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "mens": [
+    {
+      "id": 1,
+      "src": "/Images/Products/Mens/pant1.webp",
+      "src1": "/Images/Products/Mens/pant1.webp",
+      "src2": "/Images/Products/Mens/nlota2087710739_q3_2-0_ee606528-f197-4703-b1d0-4baed30a1d1d.webp",
+      "src3": "/Images/Products/Mens/nlota2087710739_q2_2-0_8564d457-e030-45da-9ea5-a3aab2c582de.webp",
+      "src4": "/Images/Products/Mens/nlota2087710739_q5_2-0_d85ec457-e9b4-4ddb-9f19-7ab1840dcf02.webp",
+      "name": "Ridley High Waist",
+      "rate": "2000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 2,
+      "src": "/Images/Products/Mens/bluejeans1.webp",
+      "src1": "/Images/Products/Mens/bluejeans1.webp",
+      "src2": "/Images/Products/Mens/bluejeans12.webp",
+      "src3": "/Images/Products/Mens/bluejeans13.webp",
+      "src4": "/Images/Products/Mens/bluejeans14.webp",
+      "name": "Blue Jean",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": false,
+        "xxl": false
+      },
+      "availability": true,
+      "categories": "Mens",
+      "tags": " Color Black, Color Red, Size L, Size M, Size S, Size XL, Size XXL"
+    },
+    {
+      "id": 4,
+      "src": "/Images/Products/Mens/citiz41130172ef_m1_2-0_4ab86cba-d4f7-485d-9980-7b4e6287f7bc.webp",
+      "src1": "/Images/Products/Mens/citiz41130172ef_m1_2-0_4ab86cba-d4f7-485d-9980-7b4e6287f7bc.webp",
+      "src2": "/Images/Products/Mens/citiz41130172ef_m3_2-0_36d9f1c2-f8d8-431b-9ee8-ac8d3f1d774c.webp",
+      "src3": "/Images/Products/Mens/citiz41130172ef_m5_2-0_9313410b-d7c3-4913-aee8-c58202a432e1.webp",
+      "src4": "/Images/Products/Mens/citiz41130172ef_m6_2-0_71d046e0-ebbf-4f98-847c-303477c3ea8d.webp",
+      "name": "Blue pants",
+      "rate": "1500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 5,
+      "src": "/Images/Products/Mens/citiz4093612af6_m3_2-0_c986971d-913d-4e7f-99d9-c2fdd8d40955.webp",
+      "src1": "/Images/Products/Mens/citiz4093612af6_m3_2-0_c986971d-913d-4e7f-99d9-c2fdd8d40955.webp",
+      "src2": "/Images/Products/Mens/citiz4093612af6_m2_2-0_5b324eea-6015-4463-8f82-1cc22e1c166e.webp",
+      "src3": "/Images/Products/Mens/citiz4093612af6_m2_2-0_5b324eea-6015-4463-8f82-1cc22e1c166e.webp",
+      "src4": "/Images/Products/Mens/citiz4093612af6_m2_2-0_5b324eea-6015-4463-8f82-1cc22e1c166e.webp",
+      "name": "Black",
+      "rate": "1500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, Mens",
+      "tags": " Color Black, Price $7-$50, Size L, Size M, Size S, Mens"
+    },
+    {
+      "id": 13,
+      "src": "/Images/Products/Mens/341302-03-2.webp",
+      "src1": "/Images/Products/Mens/341302-03-2.webp",
+      "src2": "/Images/Products/Mens/341302-03-2.webp",
+      "src3": "/Images/Products/Mens/341302-03-2.webp",
+      "src4": "/Images/Products/Mens/341302-03-2.webp",
+      "name": "Essential Crew Tee",
+      "rate": "3000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 14,
+      "src": "/Images/Products/Mens/341302-106-2.webp",
+      "src1": "/Images/Products/Mens/341302-106-2.webp",
+      "src2": "/Images/Products/Mens/341302-106-2.webp",
+      "src3": "/Images/Products/Mens/341302-106-2.webp",
+      "src4": "/Images/Products/Mens/341302-106-2.webp",
+      "name": "Blue T-shirt",
+      "rate": "2500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 16,
+      "src": "/Images/Products/Mens/341302-119-2.webp",
+      "src1": "/Images/Products/Mens/341302-119-2.webp",
+      "src2": "/Images/Products/Mens/341302-119-2.webp",
+      "src3": "/Images/Products/Mens/341302-119-2.webp",
+      "src4": "/Images/Products/Mens/341302-119-2.webp",
+      "name": "Skin T-shirt",
+      "rate": "700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 17,
+      "src": "/Images/Products/Mens/351394-26-1.jpg",
+      "src1": "/Images/Products/Mens/351394-26-1.jpg",
+      "src2": "/Images/Products/Mens/351394-26-1.jpg",
+      "src3": "/Images/Products/Mens/351394-26-1.jpg",
+      "src4": "/Images/Products/Mens/351394-26-1.jpg",
+      "name": "Denium Jacket",
+      "rate": "3400",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 18,
+      "src": "/Images/Products/Mens/351394-32-2.webp",
+      "src1": "/Images/Products/Mens/351394-32-2.webp",
+      "src2": "/Images/Products/Mens/351394-32-2.webp",
+      "src3": "/Images/Products/Mens/351394-32-2.webp",
+      "src4": "/Images/Products/Mens/351394-32-2.webp",
+      "name": "White Denium Jacket",
+      "rate": "3500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "white": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 19,
+      "src": "/Images/Products/Mens/361192-415-2.webp",
+      "src1": "/Images/Products/Mens/361192-415-2.webp",
+      "src2": "/Images/Products/Mens/361192-415-2.webp",
+      "src3": "/Images/Products/Mens/361192-415-2.webp",
+      "src4": "/Images/Products/Mens/361192-415-2.webp",
+      "name": "Deep Blue T-shirt",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 20,
+      "src": "/Images/Products/Mens/361349-216-2.webp",
+      "src1": "/Images/Products/Mens/361349-216-2.webp",
+      "src2": "/Images/Products/Mens/361349-216-2.webp",
+      "src3": "/Images/Products/Mens/361349-216-2.webp",
+      "src4": "/Images/Products/Mens/361349-216-2.webp",
+      "name": "Yellow Check Shirt",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "Yellow": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 21,
+      "src": "/Images/Products/Mens/361349-217-2.jpg",
+      "src1": "/Images/Products/Mens/361349-217-2.jpg",
+      "src2": "/Images/Products/Mens/361349-217-2.jpg",
+      "src3": "/Images/Products/Mens/361349-217-2.jpg",
+      "src4": "/Images/Products/Mens/361349-217-2.jpg",
+      "name": "Blue Liner Shirt",
+      "rate": "1500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 22,
+      "src": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src1": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src2": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src3": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src4": "/Images/Products/Mens/361461-106-2_1.webp",
+      "name": "Styler Shirt",
+      "rate": "1800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 23,
+      "src": "/Images/Products/Mens/362028-62-2.webp",
+      "src1": "/Images/Products/Mens/362028-62-2.webp",
+      "src2": "/Images/Products/Mens/362028-62-2.webp",
+      "src3": "/Images/Products/Mens/362028-62-2.webp",
+      "src4": "/Images/Products/Mens/362028-62-2.webp",
+      "name": "Liner Green Woody",
+      "rate": "2000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "green": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 24,
+      "src": "/Images/Products/Mens/362028-63-2.webp",
+      "src1": "/Images/Products/Mens/362028-63-2.webp",
+      "src2": "/Images/Products/Mens/362028-63-2.webp",
+      "src3": "/Images/Products/Mens/362028-63-2.webp",
+      "src4": "/Images/Products/Mens/362028-63-2.webp",
+      "name": "Liner Blue Woody",
+      "rate": "2300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 25,
+      "src": "/Images/Products/Mens/362028-64-2.webp",
+      "src1": "/Images/Products/Mens/362028-64-2.webp",
+      "src2": "/Images/Products/Mens/362028-64-2.webp",
+      "src3": "/Images/Products/Mens/362028-64-2.webp",
+      "src4": "/Images/Products/Mens/362028-64-2.webp",
+      "name": "Liner Green Woody",
+      "rate": "2000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "green": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 26,
+      "src": "/Images/Products/Mens/362337-142-2.webp",
+      "src1": "/Images/Products/Mens/362337-142-2.webp",
+      "src2": "/Images/Products/Mens/362337-142-2.webp",
+      "src3": "/Images/Products/Mens/362337-142-2.webp",
+      "src4": "/Images/Products/Mens/362337-142-2.webp",
+      "name": "Red Full Wrist T-shirt",
+      "rate": "2700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "red": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 27,
+      "src": "/Images/Products/Mens/362337-143-2.webp",
+      "src1": "/Images/Products/Mens/362337-143-2.webp",
+      "src2": "/Images/Products/Mens/362337-143-2.webp",
+      "src3": "/Images/Products/Mens/362337-143-2.webp",
+      "src4": "/Images/Products/Mens/362337-143-2.webp",
+      "name": "Blue Full Wrist T-shirt",
+      "rate": "2200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 28,
+      "src": "/Images/Products/Mens/362700-51-2.webp",
+      "src1": "/Images/Products/Mens/362700-51-2.webp",
+      "src2": "/Images/Products/Mens/362700-51-2.webp",
+      "src3": "/Images/Products/Mens/362700-51-2.webp",
+      "src4": "/Images/Products/Mens/362700-51-2.webp",
+      "name": "Liner Red Shirt",
+      "rate": "2300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "red": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 29,
+      "src": "/Images/Products/Mens/362700-57-2.jpg",
+      "src1": "/Images/Products/Mens/362700-57-2.jpg",
+      "src2": "/Images/Products/Mens/362700-57-2.jpg",
+      "src3": "/Images/Products/Mens/362700-57-2.jpg",
+      "src4": "/Images/Products/Mens/362700-57-2.jpg",
+      "name": "Liner Green Shirt",
+      "rate": "2200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "green": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 30,
+      "src": "/Images/Products/Mens/362700-63-2.webp",
+      "src1": "/Images/Products/Mens/362700-63-2.webp",
+      "src2": "/Images/Products/Mens/362700-63-2.webp",
+      "src3": "/Images/Products/Mens/362700-63-2.webp",
+      "src4": "/Images/Products/Mens/362700-63-2.webp",
+      "name": "Liner Cream Shirt",
+      "rate": "2500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "Cream": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 31,
+      "src": "/Images/Products/Mens/362851-45-2.webp",
+      "src1": "/Images/Products/Mens/362851-45-2.webp",
+      "src2": "/Images/Products/Mens/362851-45-2.webp",
+      "src3": "/Images/Products/Mens/362851-45-2.webp",
+      "src4": "/Images/Products/Mens/362851-45-2.webp",
+      "name": "Half Wrist T-shirt",
+      "rate": "5500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "green": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 32,
+      "src": "/Images/Products/Mens/363032-38-2.webp",
+      "src1": "/Images/Products/Mens/363032-38-2.webp",
+      "src2": "/Images/Products/Mens/363032-38-2.webp",
+      "src3": "/Images/Products/Mens/363032-38-2.webp",
+      "src4": "/Images/Products/Mens/363032-38-2.webp",
+      "name": "Liney Blue T-shirt",
+      "rate": "2300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 33,
+      "src": "/Images/Products/Mens/363032-40-2_1.webp",
+      "src1": "/Images/Products/Mens/363032-40-2_1.webp",
+      "src2": "/Images/Products/Mens/363032-40-2_1.webp",
+      "src3": "/Images/Products/Mens/363032-40-2_1.webp",
+      "src4": "/Images/Products/Mens/363032-40-2_1.webp",
+      "name": "Liney Black T-shirt",
+      "rate": "2000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 34,
+      "src": "/Images/Products/Mens/363457-81-2.webp",
+      "src1": "/Images/Products/Mens/363457-81-2.webp",
+      "src2": "/Images/Products/Mens/363457-81-2.webp",
+      "src3": "/Images/Products/Mens/363457-81-2.webp",
+      "src4": "/Images/Products/Mens/363457-81-2.webp",
+      "name": "Yellow T-shirt",
+      "rate": "2800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "yellow": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 35,
+      "src": "/Images/Products/Mens/363602-07-2.webp",
+      "src1": "/Images/Products/Mens/363602-07-2.webp",
+      "src2": "/Images/Products/Mens/363602-07-2.webp",
+      "src3": "/Images/Products/Mens/363602-07-2.webp",
+      "src4": "/Images/Products/Mens/363602-07-2.webp",
+      "name": "Redish Pant",
+      "rate": "2700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "redish": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 36,
+      "src": "/Images/Products/Mens/363622-36-2.webp",
+      "src1": "/Images/Products/Mens/363622-36-2.webp",
+      "src2": "/Images/Products/Mens/363622-36-2.webp",
+      "src3": "/Images/Products/Mens/363622-36-2.webp",
+      "src4": "/Images/Products/Mens/363622-36-2.webp",
+      "name": "Black Printed T-Shirt",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 37,
+      "src": "/Images/Products/Mens/363622-45-2.webp",
+      "src1": "/Images/Products/Mens/363622-45-2.webp",
+      "src2": "/Images/Products/Mens/363622-45-2.webp",
+      "src3": "/Images/Products/Mens/363622-45-2.webp",
+      "src4": "/Images/Products/Mens/363622-45-2.webp",
+      "name": "White T-Shirt",
+      "rate": "1000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "white": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 38,
+      "src": "/Images/Products/Mens/363624-07-2.jpg",
+      "src1": "/Images/Products/Mens/363624-07-2.jpg",
+      "src2": "/Images/Products/Mens/363624-07-2.jpg",
+      "src3": "/Images/Products/Mens/363624-07-2.jpg",
+      "src4": "/Images/Products/Mens/363624-07-2.jpg",
+      "name": "Deep Blue T-shirt",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 39,
+      "src": "/Images/Products/Mens/363624-10-2.webp",
+      "src1": "/Images/Products/Mens/363624-10-2.webp",
+      "src2": "/Images/Products/Mens/363624-10-2.webp",
+      "src3": "/Images/Products/Mens/363624-10-2.webp",
+      "src4": "/Images/Products/Mens/363624-10-2.webp",
+      "name": "White Logo T-shirt",
+      "rate": "800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "white": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 40,
+      "src": "/Images/Products/Mens/363631-02-2.webp",
+      "src1": "/Images/Products/Mens/363631-02-2.webp",
+      "src2": "/Images/Products/Mens/363631-02-2.webp",
+      "src3": "/Images/Products/Mens/363631-02-2.webp",
+      "src4": "/Images/Products/Mens/363631-02-2.webp",
+      "name": "Black Woody",
+      "rate": "2400",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 41,
+      "src": "/Images/Products/Mens/363631-13-2.jpg",
+      "src1": "/Images/Products/Mens/363631-13-2.jpg",
+      "src2": "/Images/Products/Mens/363631-13-2.jpg",
+      "src3": "/Images/Products/Mens/363631-13-2.jpg",
+      "src4": "/Images/Products/Mens/363631-13-2.jpg",
+      "name": "Light Gray Woody",
+      "rate": "1800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "gray": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 42,
+      "src": "/Images/Products/Mens/jbran4197212122_q1_2-0_dfc90e0a-387b-4025-973f-f6c5468fd041.webp",
+      "src1": "/Images/Products/Mens/jbran4197212122_q1_2-0_dfc90e0a-387b-4025-973f-f6c5468fd041.webp",
+      "src2": "/Images/Products/Mens/jbran4197212122_q2_2-0_71d6cc09-95ec-4e22-a8bb-89c3f465d5ca.webp",
+      "src3": "/Images/Products/Mens/jbran4197212122_q3_2-0_9638778a-2964-45a4-a3b4-082727699a7a.webp",
+      "src4": "/Images/Products/Mens/jbran4197212122_q1_2-0_dfc90e0a-387b-4025-973f-f6c5468fd041.webp",
+      "name": "White Pant",
+      "rate": "3200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "white": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 44,
+      "src": "/Images/Products/Mens/pr16-1_c56afae4-f846-449d-a609-3e6ab9fa8986.webp",
+      "src1": "/Images/Products/Mens/pr16-1_c56afae4-f846-449d-a609-3e6ab9fa8986.webp",
+      "src2": "/Images/Products/Mens/pr16-2_eb1d76c4-da4b-42f2-aa2f-a4587d5e0abe.webp",
+      "src3": "/Images/Products/Mens/pr16-3_6c062b50-8b5f-4ac7-bf94-5c1e51caab44.webp",
+      "src4": "/Images/Products/Mens/pr16-4_7659d608-4a4a-4322-bb73-a3f9e77a95a4.webp",
+      "name": "Gray Pant",
+      "rate": "2300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "gray": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    }
+  ],
+  "trending": [
+    {
+      "id": 16,
+      "src": "/Images/Products/Mens/341302-119-2.webp",
+      "src1": "/Images/Products/Mens/341302-119-2.webp",
+      "src2": "/Images/Products/Mens/341302-119-2.webp",
+      "src3": "/Images/Products/Mens/341302-119-2.webp",
+      "src4": "/Images/Products/Mens/341302-119-2.webp",
+      "name": "Skin T-shirt",
+      "rate": "700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 17,
+      "src": "/Images/Products/Mens/351394-26-1.jpg",
+      "src1": "/Images/Products/Mens/351394-26-1.jpg",
+      "src2": "/Images/Products/Mens/351394-26-1.jpg",
+      "src3": "/Images/Products/Mens/351394-26-1.jpg",
+      "src4": "/Images/Products/Mens/351394-26-1.jpg",
+      "name": "Denium Jacket",
+      "rate": "3400",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 18,
+      "src": "/Images/Products/Mens/351394-32-2.webp",
+      "name": "White Denium Jacket",
+      "rate": "3500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "white": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 19,
+      "src": "/Images/Products/Mens/361192-415-2.webp",
+      "src1": "/Images/Products/Mens/361192-415-2.webp",
+      "src2": "/Images/Products/Mens/361192-415-2.webp",
+      "src3": "/Images/Products/Mens/361192-415-2.webp",
+      "src4": "/Images/Products/Mens/361192-415-2.webp",
+      "name": "Deep Blue T-shirt",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 20,
+      "src": "/Images/Products/Mens/361349-216-2.webp",
+      "src1": "/Images/Products/Mens/361349-216-2.webp",
+      "src2": "/Images/Products/Mens/361349-216-2.webp",
+      "src3": "/Images/Products/Mens/361349-216-2.webp",
+      "src4": "/Images/Products/Mens/361349-216-2.webp",
+      "name": "Yellow Check Shirt",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "Yellow": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 21,
+      "src": "/Images/Products/Mens/361349-217-2.jpg",
+      "src1": "/Images/Products/Mens/361349-217-2.jpg",
+      "src2": "/Images/Products/Mens/361349-217-2.jpg",
+      "src3": "/Images/Products/Mens/361349-217-2.jpg",
+      "src4": "/Images/Products/Mens/361349-217-2.jpg",
+      "name": "Blue Liner Shirt",
+      "rate": "1500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 22,
+      "src": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src1": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src2": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src3": "/Images/Products/Mens/361461-106-2_1.webp",
+      "src4": "/Images/Products/Mens/361461-106-2_1.webp",
+      "name": "Styler Shirt",
+      "rate": "1800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 30,
+      "src": "/Images/Products/Mens/362700-63-2.webp",
+      "src1": "/Images/Products/Mens/362700-63-2.webp",
+      "src2": "/Images/Products/Mens/362700-63-2.webp",
+      "src3": "/Images/Products/Mens/362700-63-2.webp",
+      "src4": "/Images/Products/Mens/362700-63-2.webp",
+      "name": "Liner Cream Shirt",
+      "rate": "2500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "Cream": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 31,
+      "src": "/Images/Products/Mens/362851-45-2.webp",
+      "src1": "/Images/Products/Mens/362851-45-2.webp",
+      "src2": "/Images/Products/Mens/362851-45-2.webp",
+      "src3": "/Images/Products/Mens/362851-45-2.webp",
+      "src4": "/Images/Products/Mens/362851-45-2.webp",
+      "name": "Half Wrist T-shirt",
+      "rate": "5500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "green": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 32,
+      "src": "/Images/Products/Mens/363032-38-2.webp",
+      "src1": "/Images/Products/Mens/363032-38-2.webp",
+      "src2": "/Images/Products/Mens/363032-38-2.webp",
+      "src3": "/Images/Products/Mens/363032-38-2.webp",
+      "src4": "/Images/Products/Mens/363032-38-2.webp",
+      "name": "Liney Blue T-shirt",
+      "rate": "2300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    },
+    {
+      "id": 39,
+      "src": "/Images/Products/Mens/363624-10-2.webp",
+      "src1": "/Images/Products/Mens/363624-10-2.webp",
+      "src2": "/Images/Products/Mens/363624-10-2.webp",
+      "src3": "/Images/Products/Mens/363624-10-2.webp",
+      "src4": "/Images/Products/Mens/363624-10-2.webp",
+      "name": "White Logo T-shirt",
+      "rate": "800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "white": true
+      },
+      "size": {
+        "s": true,
+        "m": true,
+        "l": true,
+        "xl": true,
+        "xxl": true
+      },
+      "availability": true,
+      "categories": "Fashion, New Arrival",
+      "tags": "Color White, Color Black, Price $7-$50, Size L, Size M, Size S, Vendor Kalles, women"
+    }
+  ],
+  "womens": [
+    {
+      "id": 45,
+      "src": "/Images/Products/Womens/24.webp",
+      "src1": "/Images/Products/Womens/24.webp",
+      "src2": "/Images/Products/Womens/24.webp",
+      "src3": "/Images/Products/Womens/24.webp",
+      "src4": "/Images/Products/Womens/24.webp",
+      "name": "Skin T-shirt",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 46,
+      "src": "/Images/Products/Womens/13893318-1-navywhite.webp",
+      "src1": "/Images/Products/Womens/13893318-1-navywhite.webp",
+      "src2": "/Images/Products/Womens/13893318-1-navywhite.webp",
+      "src3": "/Images/Products/Womens/13893318-1-navywhite.webp",
+      "src4": "/Images/Products/Womens/13893318-1-navywhite.webp",
+      "name": "Navywhite",
+      "rate": "1000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 47,
+      "src": "/Images/Products/Womens/20045693-1-greenstripe.webp",
+      "src1": "/Images/Products/Womens/20045693-1-greenstripe.webp",
+      "src2": "/Images/Products/Womens/20045693-1-greenstripe.webp",
+      "src3": "/Images/Products/Womens/20045693-1-greenstripe.webp",
+      "src4": "/Images/Products/Womens/20045693-1-greenstripe.webp",
+      "name": "Greenstripe",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 48,
+      "src": "/Images/Products/Womens/20048517-3.jpg",
+      "src1": "/Images/Products/Womens/20048517-3.jpg",
+      "src2": "/Images/Products/Womens/20048517-3.jpg",
+      "src3": "/Images/Products/Womens/20048517-3.jpg",
+      "src4": "/Images/Products/Womens/20048517-3.jpg",
+      "name": "Sky Blue T-shirt",
+      "rate": "800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 49,
+      "src": "/Images/Products/Womens/dmist3003966540_q1_2-0.webp",
+      "src1": "/Images/Products/Womens/dmist3003966540_q1_2-0.webp",
+      "src2": "/Images/Products/Womens/dmist3003966540_q1_2-0.webp",
+      "src3": "/Images/Products/Womens/dmist3003966540_q1_2-0.webp",
+      "src4": "/Images/Products/Womens/dmist3003966540_q1_2-0.webp",
+      "name": "Blue Liner T-shirt",
+      "rate": "1800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 50,
+      "src": "/Images/Products/Womens/eberj4183019d5e_q1_2-0_4e036e1e-79fe-4129-958e-9a1a2698ce6a.webp",
+      "src1": "/Images/Products/Womens/eberj4183019d5e_q1_2-0_4e036e1e-79fe-4129-958e-9a1a2698ce6a.webp",
+      "src2": "/Images/Products/Womens/eberj4183019d5e_q1_2-0_4e036e1e-79fe-4129-958e-9a1a2698ce6a.webp",
+      "src3": "/Images/Products/Womens/eberj4183019d5e_q1_2-0_4e036e1e-79fe-4129-958e-9a1a2698ce6a.webp",
+      "src4": "/Images/Products/Womens/eberj4183019d5e_q1_2-0_4e036e1e-79fe-4129-958e-9a1a2698ce6a.webp",
+      "name": "Blue Nighty",
+      "rate": "900",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 51,
+      "src": "/Images/Products/Womens/famer2052212158_q1_2-1_26f6b1d8-3197-4c2b-9230-2247b4c15689.webp",
+      "src1": "/Images/Products/Womens/famer2052212158_q1_2-1_26f6b1d8-3197-4c2b-9230-2247b4c15689.webp",
+      "src2": "/Images/Products/Womens/famer2052212158_q1_2-1_26f6b1d8-3197-4c2b-9230-2247b4c15689.webp",
+      "src3": "/Images/Products/Womens/famer2052212158_q1_2-1_26f6b1d8-3197-4c2b-9230-2247b4c15689.webp",
+      "src4": "/Images/Products/Womens/famer2052212158_q1_2-1_26f6b1d8-3197-4c2b-9230-2247b4c15689.webp",
+      "name": "White Top",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 52,
+      "src": "/Images/Products/Womens/freep4527415023_q4_2-0_d8aabba7-1a8a-4c2a-b289-8551b6d06bca.webp",
+      "src1": "/Images/Products/Womens/freep4527415023_q4_2-0_d8aabba7-1a8a-4c2a-b289-8551b6d06bca.webp",
+      "src2": "/Images/Products/Womens/freep4527415023_q4_2-0_d8aabba7-1a8a-4c2a-b289-8551b6d06bca.webp",
+      "src3": "/Images/Products/Womens/freep4527415023_q4_2-0_d8aabba7-1a8a-4c2a-b289-8551b6d06bca.webp",
+      "src4": "/Images/Products/Womens/freep4527415023_q4_2-0_d8aabba7-1a8a-4c2a-b289-8551b6d06bca.webp",
+      "name": "White Half Hand Top",
+      "rate": "1400",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 53,
+      "src": "/Images/Products/Womens/kulee3007512290_q4_2-0_a67f3792-9adb-433d-9e9c-5267b26dcc82.webp",
+      "src1": "/Images/Products/Womens/kulee3007512290_q4_2-0_a67f3792-9adb-433d-9e9c-5267b26dcc82.webp",
+      "src2": "/Images/Products/Womens/kulee3007512290_q4_2-0_a67f3792-9adb-433d-9e9c-5267b26dcc82.webp",
+      "src3": "/Images/Products/Womens/kulee3007512290_q4_2-0_a67f3792-9adb-433d-9e9c-5267b26dcc82.webp",
+      "src4": "/Images/Products/Womens/kulee3007512290_q4_2-0_a67f3792-9adb-433d-9e9c-5267b26dcc82.webp",
+      "name": "Blue Pant",
+      "rate": "800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 54,
+      "src": "/Images/Products/Womens/skinn3060927901_q1_2-0.webp",
+      "src1": "/Images/Products/Womens/skinn3060927901_q1_2-0.webp",
+      "src2": "/Images/Products/Womens/skinn3060927901_q1_2-0.webp",
+      "src3": "/Images/Products/Womens/skinn3060927901_q1_2-0.webp",
+      "src4": "/Images/Products/Womens/skinn3060927901_q1_2-0.webp",
+      "name": "Skin Pant",
+      "rate": "1800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    }
+  ],
+  "watches": [
+    {
+      "id": 55,
+      "src": "/Images/Products/Watches/aark-collective-watches-classic-nue-watch-design-milk-shop-13472036520039_2000x_0d99ca44-b715-40c4-b1ec-34f43cd4bce5 (1).webp",
+      "src1": "/Images/Products/Watches/aark-collective-watches-classic-nue-watch-design-milk-shop-13472036520039_2000x_0d99ca44-b715-40c4-b1ec-34f43cd4bce5 (1).webp",
+      "src2": "/Images/Products/Watches/aark-collective-watches-classic-nue-watch-design-milk-shop-13472036520039_2000x_0d99ca44-b715-40c4-b1ec-34f43cd4bce5 (1).webp",
+      "src3": "/Images/Products/Watches/aark-collective-watches-classic-nue-watch-design-milk-shop-13472036520039_2000x_0d99ca44-b715-40c4-b1ec-34f43cd4bce5 (1).webp",
+      "src4": "/Images/Products/Watches/aark-collective-watches-classic-nue-watch-design-milk-shop-13472036520039_2000x_0d99ca44-b715-40c4-b1ec-34f43cd4bce5 (1).webp",
+      "name": "Classic Nue Watch",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 56,
+      "src": "/Images/Products/Watches/Done-1-Neely-Three-Hand-Pastel-Pink-Stainless-Steel-Watch.webp",
+      "src1": "/Images/Products/Watches/Done-1-Neely-Three-Hand-Pastel-Pink-Stainless-Steel-Watch.webp",
+      "src2": "/Images/Products/Watches/Done-1-Neely-Three-Hand-Pastel-Pink-Stainless-Steel-Watch.webp",
+      "src3": "/Images/Products/Watches/Done-1-Neely-Three-Hand-Pastel-Pink-Stainless-Steel-Watch.webp",
+      "src4": "/Images/Products/Watches/Done-1-Neely-Three-Hand-Pastel-Pink-Stainless-Steel-Watch.webp",
+      "name": "Pastel Pink Stainless Steel Watch",
+      "rate": "3000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 57,
+      "src": "/Images/Products/Watches/p24-11_ec0dcf2b-dcc4-48cf-8b3e-71c6945984db.webp",
+      "src1": "/Images/Products/Watches/p24-11_ec0dcf2b-dcc4-48cf-8b3e-71c6945984db.webp",
+      "src2": "/Images/Products/Watches/p24-11_ec0dcf2b-dcc4-48cf-8b3e-71c6945984db.webp",
+      "src3": "/Images/Products/Watches/p24-11_ec0dcf2b-dcc4-48cf-8b3e-71c6945984db.webp",
+      "src4": "/Images/Products/Watches/p24-11_ec0dcf2b-dcc4-48cf-8b3e-71c6945984db.webp",
+      "name": "Neely Three Hand Pastel Pink",
+      "rate": "4700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 58,
+      "src": "/Images/Products/Watches/projects-watches-watches-crossover-black-watch-design-milk-shop-12453919260775_2000x_a95c7059-875d-4e4e-a2d3-9f70e58d35c5.webp",
+      "src1": "/Images/Products/Watches/projects-watches-watches-crossover-black-watch-design-milk-shop-12453919260775_2000x_a95c7059-875d-4e4e-a2d3-9f70e58d35c5.webp",
+      "src2": "/Images/Products/Watches/projects-watches-watches-crossover-black-watch-design-milk-shop-12453919260775_2000x_a95c7059-875d-4e4e-a2d3-9f70e58d35c5.webp",
+      "src3": "/Images/Products/Watches/projects-watches-watches-crossover-black-watch-design-milk-shop-12453919260775_2000x_a95c7059-875d-4e4e-a2d3-9f70e58d35c5.webp",
+      "src4": "/Images/Products/Watches/projects-watches-watches-crossover-black-watch-design-milk-shop-12453919260775_2000x_a95c7059-875d-4e4e-a2d3-9f70e58d35c5.webp",
+      "name": "Crossover Black Watch",
+      "rate": "2700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 59,
+      "src": "/Images/Products/Watches/projects-watches-watches-kazimir-yellow-watch-design-milk-shop-13095780679783_2000x_fd2d28ee-b62a-4e80-a916-4793134ea543.webp",
+      "src1": "/Images/Products/Watches/projects-watches-watches-kazimir-yellow-watch-design-milk-shop-13095780679783_2000x_fd2d28ee-b62a-4e80-a916-4793134ea543.webp",
+      "src2": "/Images/Products/Watches/projects-watches-watches-kazimir-yellow-watch-design-milk-shop-13095780679783_2000x_fd2d28ee-b62a-4e80-a916-4793134ea543.webp",
+      "src3": "/Images/Products/Watches/projects-watches-watches-kazimir-yellow-watch-design-milk-shop-13095780679783_2000x_fd2d28ee-b62a-4e80-a916-4793134ea543.webp",
+      "src4": "/Images/Products/Watches/projects-watches-watches-kazimir-yellow-watch-design-milk-shop-13095780679783_2000x_fd2d28ee-b62a-4e80-a916-4793134ea543.webp",
+      "name": "Kazimir Yellow Watch",
+      "rate": "2300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 60,
+      "src": "/Images/Products/Watches/projects-watches-watches-kiura-chronograph-white-watch-design-milk-shop-13095789690983_2000x_2779ae5f-730e-42bc-979a-f7bd8cb64924.webp",
+      "src1": "/Images/Products/Watches/projects-watches-watches-kiura-chronograph-white-watch-design-milk-shop-13095789690983_2000x_2779ae5f-730e-42bc-979a-f7bd8cb64924.webp",
+      "src2": "/Images/Products/Watches/projects-watches-watches-kiura-chronograph-white-watch-design-milk-shop-13095789690983_2000x_2779ae5f-730e-42bc-979a-f7bd8cb64924.webp",
+      "src3": "/Images/Products/Watches/projects-watches-watches-kiura-chronograph-white-watch-design-milk-shop-13095789690983_2000x_2779ae5f-730e-42bc-979a-f7bd8cb64924.webp",
+      "src4": "/Images/Products/Watches/projects-watches-watches-kiura-chronograph-white-watch-design-milk-shop-13095789690983_2000x_2779ae5f-730e-42bc-979a-f7bd8cb64924.webp",
+      "name": "Kiura Chronograph White Watch",
+      "rate": "1200",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 61,
+      "src": "/Images/Products/Watches/projects-watches-watches-tangency-watch-design-milk-shop-12453934039143_2000x_98c4a4f4-622b-4aad-bef2-3756229cb379.webp",
+      "src1": "/Images/Products/Watches/projects-watches-watches-tangency-watch-design-milk-shop-12453934039143_2000x_98c4a4f4-622b-4aad-bef2-3756229cb379.webp",
+      "src2": "/Images/Products/Watches/projects-watches-watches-tangency-watch-design-milk-shop-12453934039143_2000x_98c4a4f4-622b-4aad-bef2-3756229cb379.webp",
+      "src3": "/Images/Products/Watches/projects-watches-watches-tangency-watch-design-milk-shop-12453934039143_2000x_98c4a4f4-622b-4aad-bef2-3756229cb379.webp",
+      "src4": "/Images/Products/Watches/projects-watches-watches-tangency-watch-design-milk-shop-12453934039143_2000x_98c4a4f4-622b-4aad-bef2-3756229cb379.webp",
+      "name": "Tangency Watch",
+      "rate": "2500",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 62,
+      "src": "/Images/Products/Watches/SmartWatch.webp",
+      "src1": "/Images/Products/Watches/SmartWatch.webp",
+      "src2": "/Images/Products/Watches/SmartWatch.webp",
+      "src3": "/Images/Products/Watches/SmartWatch.webp",
+      "src4": "/Images/Products/Watches/SmartWatch.webp",
+      "name": "Titan SmartWatch",
+      "rate": "8000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 63,
+      "src": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-black-snow-design-milk-shop-13096149942375_2000x_1b80e7e9-6fa8-473d-bda5-fb7204ddf559.webp",
+      "src1": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-black-snow-design-milk-shop-13096149942375_2000x_1b80e7e9-6fa8-473d-bda5-fb7204ddf559.webp",
+      "src2": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-black-snow-design-milk-shop-13096149942375_2000x_1b80e7e9-6fa8-473d-bda5-fb7204ddf559.webp",
+      "src3": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-black-snow-design-milk-shop-13096149942375_2000x_1b80e7e9-6fa8-473d-bda5-fb7204ddf559.webp",
+      "src4": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-black-snow-design-milk-shop-13096149942375_2000x_1b80e7e9-6fa8-473d-bda5-fb7204ddf559.webp",
+      "name": "ziiiro Watches",
+      "rate": "2800",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 64,
+      "src": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-rose-gold-design-milk-shop-13096150433895_2000x_e877637e-78fa-41ef-ba94-20091593926c.webp",
+      "src1": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-rose-gold-design-milk-shop-13096150433895_2000x_e877637e-78fa-41ef-ba94-20091593926c.webp",
+      "src2": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-rose-gold-design-milk-shop-13096150433895_2000x_e877637e-78fa-41ef-ba94-20091593926c.webp",
+      "src3": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-rose-gold-design-milk-shop-13096150433895_2000x_e877637e-78fa-41ef-ba94-20091593926c.webp",
+      "src4": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-rose-gold-design-milk-shop-13096150433895_2000x_e877637e-78fa-41ef-ba94-20091593926c.webp",
+      "name": "Ziiiro Rose Gold Watches",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 65,
+      "src": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-chrome-lemon-design-milk-shop-13096149975143_2000x_7f5592cc-dc16-441f-9c03-b04f2ca46012.webp",
+      "src1": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-chrome-lemon-design-milk-shop-13096149975143_2000x_7f5592cc-dc16-441f-9c03-b04f2ca46012.webp",
+      "src2": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-chrome-lemon-design-milk-shop-13096149975143_2000x_7f5592cc-dc16-441f-9c03-b04f2ca46012.webp",
+      "src3": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-chrome-lemon-design-milk-shop-13096149975143_2000x_7f5592cc-dc16-441f-9c03-b04f2ca46012.webp",
+      "src4": "/Images/Products/Watches/ziiiro-watches-eclipse-stainless-steel-watch-in-chrome-lemon-design-milk-shop-13096149975143_2000x_7f5592cc-dc16-441f-9c03-b04f2ca46012.webp",
+      "name": "Ziiiro Chrome Lemon Watches",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    }
+  ],
+  "footwears": [
+    {
+      "id": 66,
+      "src": "/Images/Products/Shoes/1_3aae263a-b58d-4318-a342-fe28ae51084e.webp",
+      "src1": "/Images/Products/Shoes/1_3aae263a-b58d-4318-a342-fe28ae51084e.webp",
+      "src2": "/Images/Products/Shoes/1_3aae263a-b58d-4318-a342-fe28ae51084e.webp",
+      "src3": "/Images/Products/Shoes/1_3aae263a-b58d-4318-a342-fe28ae51084e.webp",
+      "src4": "/Images/Products/Shoes/1_3aae263a-b58d-4318-a342-fe28ae51084e.webp",
+      "name": "Acrlic Blue Shoe",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 67,
+      "src": "/Images/Products/Shoes/2.1_a02eb53e-6d0d-46d9-ab7c-7a87048d44fe.webp",
+      "src1": "/Images/Products/Shoes/2.1_a02eb53e-6d0d-46d9-ab7c-7a87048d44fe.webp",
+      "src2": "/Images/Products/Shoes/2.1_a02eb53e-6d0d-46d9-ab7c-7a87048d44fe.webp",
+      "src3": "/Images/Products/Shoes/2.1_a02eb53e-6d0d-46d9-ab7c-7a87048d44fe.webp",
+      "src4": "/Images/Products/Shoes/2.1_a02eb53e-6d0d-46d9-ab7c-7a87048d44fe.webp",
+      "name": "Acrlic Black Shoe",
+      "rate": "2700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 68,
+      "src": "/Images/Products/Shoes/2_389c3749-c0d0-406d-a1ce-933f395a27e6.webp",
+      "src1": "/Images/Products/Shoes/2_389c3749-c0d0-406d-a1ce-933f395a27e6.webp",
+      "src2": "/Images/Products/Shoes/2_389c3749-c0d0-406d-a1ce-933f395a27e6.webp",
+      "src3": "/Images/Products/Shoes/2_389c3749-c0d0-406d-a1ce-933f395a27e6.webp",
+      "src4": "/Images/Products/Shoes/2_389c3749-c0d0-406d-a1ce-933f395a27e6.webp",
+      "name": "Orange Shoe",
+      "rate": "1700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 69,
+      "src": "/Images/Products/Shoes/5_582be3f5-c0b5-4c1e-92f2-1596fe4bf6ea.webp",
+      "src1": "/Images/Products/Shoes/5_582be3f5-c0b5-4c1e-92f2-1596fe4bf6ea.webp",
+      "src2": "/Images/Products/Shoes/5_582be3f5-c0b5-4c1e-92f2-1596fe4bf6ea.webp",
+      "src3": "/Images/Products/Shoes/5_582be3f5-c0b5-4c1e-92f2-1596fe4bf6ea.webp",
+      "src4": "/Images/Products/Shoes/5_582be3f5-c0b5-4c1e-92f2-1596fe4bf6ea.webp",
+      "name": "Sky Blue Shoe",
+      "rate": "1000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 70,
+      "src": "/Images/Products/Shoes/7_e61232a8-a57c-457b-892b-88029ffdcc43.webp",
+      "src1": "/Images/Products/Shoes/7_e61232a8-a57c-457b-892b-88029ffdcc43.webp",
+      "src2": "/Images/Products/Shoes/7_e61232a8-a57c-457b-892b-88029ffdcc43.webp",
+      "src3": "/Images/Products/Shoes/7_e61232a8-a57c-457b-892b-88029ffdcc43.webp",
+      "src4": "/Images/Products/Shoes/7_e61232a8-a57c-457b-892b-88029ffdcc43.webp",
+      "name": "Gray Star Shoe",
+      "rate": "3700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 71,
+      "src": "/Images/Products/Shoes/8_76b044d8-dc72-41e5-8b4d-e31cc3093cb7.webp",
+      "src1": "/Images/Products/Shoes/8_76b044d8-dc72-41e5-8b4d-e31cc3093cb7.webp",
+      "src2": "/Images/Products/Shoes/8_76b044d8-dc72-41e5-8b4d-e31cc3093cb7.webp",
+      "src3": "/Images/Products/Shoes/8_76b044d8-dc72-41e5-8b4d-e31cc3093cb7.webp",
+      "src4": "/Images/Products/Shoes/8_76b044d8-dc72-41e5-8b4d-e31cc3093cb7.webp",
+      "name": "Red Sneakers",
+      "rate": "2700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 72,
+      "src": "/Images/Products/Shoes/9_bcf4cfd5-32d6-49b7-9891-6fc08272de29.webp",
+      "src1": "/Images/Products/Shoes/9_bcf4cfd5-32d6-49b7-9891-6fc08272de29.webp",
+      "src2": "/Images/Products/Shoes/9_bcf4cfd5-32d6-49b7-9891-6fc08272de29.webp",
+      "src3": "/Images/Products/Shoes/9_bcf4cfd5-32d6-49b7-9891-6fc08272de29.webp",
+      "src4": "/Images/Products/Shoes/9_bcf4cfd5-32d6-49b7-9891-6fc08272de29.webp",
+      "name": "Brown Sandal",
+      "rate": "1300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 73,
+      "src": "/Images/Products/Shoes/10_f477c991-5323-4dfd-8a17-35312139f756.webp",
+      "src1": "/Images/Products/Shoes/10_f477c991-5323-4dfd-8a17-35312139f756.webp",
+      "src2": "/Images/Products/Shoes/10_f477c991-5323-4dfd-8a17-35312139f756.webp",
+      "src3": "/Images/Products/Shoes/10_f477c991-5323-4dfd-8a17-35312139f756.webp",
+      "src4": "/Images/Products/Shoes/10_f477c991-5323-4dfd-8a17-35312139f756.webp",
+      "name": "Yellow Star Shoe",
+      "rate": "2600",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 74,
+      "src": "/Images/Products/Shoes/11_ccfcec12-7377-423b-9348-edd6dad06c7e.webp",
+      "src1": "/Images/Products/Shoes/11_ccfcec12-7377-423b-9348-edd6dad06c7e.webp",
+      "src2": "/Images/Products/Shoes/11_ccfcec12-7377-423b-9348-edd6dad06c7e.webp",
+      "src3": "/Images/Products/Shoes/11_ccfcec12-7377-423b-9348-edd6dad06c7e.webp",
+      "src4": "/Images/Products/Shoes/11_ccfcec12-7377-423b-9348-edd6dad06c7e.webp",
+      "name": "GGLB Slides",
+      "rate": "1300",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 75,
+      "src": "/Images/Products/Shoes/13_dd697b2a-5492-438d-81a0-769664d5952e.webp",
+      "src1": "/Images/Products/Shoes/13_dd697b2a-5492-438d-81a0-769664d5952e.webp",
+      "src2": "/Images/Products/Shoes/13_dd697b2a-5492-438d-81a0-769664d5952e.webp",
+      "src3": "/Images/Products/Shoes/13_dd697b2a-5492-438d-81a0-769664d5952e.webp",
+      "src4": "/Images/Products/Shoes/13_dd697b2a-5492-438d-81a0-769664d5952e.webp",
+      "name": "Giverncy Sneaker",
+      "rate": "4700",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 76,
+      "src": "/Images/Products/Shoes/15_0da08226-766f-4490-8eea-2ecef8247a3d.webp",
+      "src1": "/Images/Products/Shoes/15_0da08226-766f-4490-8eea-2ecef8247a3d.webp",
+      "src2": "/Images/Products/Shoes/15_0da08226-766f-4490-8eea-2ecef8247a3d.webp",
+      "src3": "/Images/Products/Shoes/15_0da08226-766f-4490-8eea-2ecef8247a3d.webp",
+      "src4": "/Images/Products/Shoes/15_0da08226-766f-4490-8eea-2ecef8247a3d.webp",
+      "name": "Golden White Sneakers",
+      "rate": "3000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 77,
+      "src": "/Images/Products/Shoes/19_aa471380-f348-4c76-bd45-299862674823.webp",
+      "src1": "/Images/Products/Shoes/19_aa471380-f348-4c76-bd45-299862674823.webp",
+      "src2": "/Images/Products/Shoes/19_aa471380-f348-4c76-bd45-299862674823.webp",
+      "src3": "/Images/Products/Shoes/19_aa471380-f348-4c76-bd45-299862674823.webp",
+      "src4": "/Images/Products/Shoes/19_aa471380-f348-4c76-bd45-299862674823.webp",
+      "name": "White Football Sneakers",
+      "rate": "4000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    },
+    {
+      "id": 78,
+      "src": "/Images/Products/Shoes/20_a228cf39-328a-4316-9cb8-43012541a698.webp",
+      "src1": "/Images/Products/Shoes/20_a228cf39-328a-4316-9cb8-43012541a698.webp",
+      "src2": "/Images/Products/Shoes/20_a228cf39-328a-4316-9cb8-43012541a698.webp",
+      "src3": "/Images/Products/Shoes/20_a228cf39-328a-4316-9cb8-43012541a698.webp",
+      "src4": "/Images/Products/Shoes/20_a228cf39-328a-4316-9cb8-43012541a698.webp",
+      "name": "Yellow Shoe",
+      "rate": "6000",
+      "describe": "Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "color": {
+        "blue": true,
+        "black": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .container {
+        width: 80%;
+        margin: auto;
+    }
+
+    .inc {
+        @apply absolute -top-2 -right-1.5 w-4 h-4 text-center text-xs bg-black text-white rounded-full
+    }
+
+    .scrolled .navbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: white;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        z-index: 5;
+    }
+
+    .custom-prev-arrow,
+    .custom-next-arrow {
+        position: absolute;
+        top: 45%;
+        transform: translateY(-50%);
+        cursor: pointer;
+        background-color: transparent;
+        color: black;
+        padding: 15px 15px;
+        border: 2px solid black;
+        border-radius: 100%;
+        font-size: 16px;
+    }
+
+    .custom-prev-arrow {
+        left: 10px;
+        z-index: 1;
+    }
+
+    .custom-next-arrow {
+        right: 10px;
+    }
+
+    .custom-prev-arrow:hover,
+    .custom-next-arrow:hover {
+        @apply bg-sky-500 text-white border-sky-500
+    }
+
+    .card-div:hover .overlay {
+        opacity: 1;
+
+        & .heart {
+            transform: translateX(10px);
+            transition-delay: 0.3s;
+            opacity: 1;
+        }
+        
+        & .btn {
+            transform: translateY(40px);
+            transition-delay: 0.3s;
+            opacity: 1;
+        }
+
+        & .avail {
+            transform: translateY(-10px);
+            transition-delay: 0.6s;
+            opacity: 1;
+        }
+    }
+}
+
+@layer utilities {
+    .active {
+        @apply border-b-2 border-blue-400;
+    }
+}
